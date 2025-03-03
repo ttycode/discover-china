@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>传统节日 on Discover China</title>
+    <link>http://localhost:1313/customs/festivals/</link>
+    <description>Recent content in 传统节日 on Discover China</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/customs/festivals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>元宵节</title>
+      <link>http://localhost:1313/customs/festivals/lantern-festival/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/customs/festivals/lantern-festival/</guid>
+      <description>&lt;h2 id=&#34;节日起源&#34;&gt;节日起源&lt;/h2&gt;&#xA;&lt;p&gt;元宵节的历史渊源。&lt;/p&gt;&#xA;&lt;h2 id=&#34;传统活动&#34;&gt;传统活动&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;观灯&lt;/li&gt;&#xA;&lt;li&gt;猜灯谜&lt;/li&gt;&#xA;&lt;li&gt;舞龙舞狮&lt;/li&gt;&#xA;&lt;li&gt;吃元宵&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;现代庆祝&#34;&gt;现代庆祝&lt;/h2&gt;&#xA;&lt;p&gt;元宵节的现代传承与发展。&lt;/p&gt;&#xA;&lt;h2 id=&#34;地方特色&#34;&gt;地方特色&lt;/h2&gt;&#xA;&lt;p&gt;各地独特的元宵节庆祝方式。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>清明节</title>
+      <link>http://localhost:1313/customs/festivals/qingming-festival/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/customs/festivals/qingming-festival/</guid>
+      <description>&lt;h2 id=&#34;节日起源&#34;&gt;节日起源&lt;/h2&gt;&#xA;&lt;p&gt;介绍清明节的历史由来。&lt;/p&gt;&#xA;&lt;h2 id=&#34;传统习俗&#34;&gt;传统习俗&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;扫墓祭祖&lt;/li&gt;&#xA;&lt;li&gt;踏青郊游&lt;/li&gt;&#xA;&lt;li&gt;放风筝&lt;/li&gt;&#xA;&lt;li&gt;吃青团&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;现代意义&#34;&gt;现代意义&lt;/h2&gt;&#xA;&lt;p&gt;清明节在现代社会的传承与发展。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>重阳节</title>
+      <link>http://localhost:1313/customs/festivals/double-ninth/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/customs/festivals/double-ninth/</guid>
+      <description>&lt;h2 id=&#34;节日由来&#34;&gt;节日由来&lt;/h2&gt;&#xA;&lt;p&gt;农历九月初九的历史渊源。&lt;/p&gt;&#xA;&lt;h2 id=&#34;传统习俗&#34;&gt;传统习俗&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;登高&lt;/li&gt;&#xA;&lt;li&gt;赏菊&lt;/li&gt;&#xA;&lt;li&gt;插茱萸&lt;/li&gt;&#xA;&lt;li&gt;饮菊花酒&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;现代传承&#34;&gt;现代传承&lt;/h2&gt;&#xA;&lt;p&gt;重阳节与敬老文化的现代意义。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

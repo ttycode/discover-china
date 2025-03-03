@@ -1,0 +1,44 @@
+baseURL = "https://discover-china.pages.dev/"  # Cloudflare Pages 提供的默认域名
+languageCode = "zh-cn"
+title = "Discover China"
+theme = "ananke"
+
+[params]
+  description = "探索中国的自然风光、文化遗产和独特习俗。"
+  favicon = "favicon.ico"  # 网站图标
+  logo = "logo.png"        # 网站 Logo
+  socialIcons = [
+    { name = "github", url = "https://github.com/yourusername" },
+    { name = "twitter", url = "https://twitter.com/yourusername" },
+    { name = "facebook", url = "https://facebook.com/yourusername" }
+  ]
+
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "地理"
+  url = "/geography/"
+  weight = 2
+
+[[menu.main]]
+  name = "文化"
+  url = "/culture/"
+  weight = 3
+
+[[menu.main]]
+  name = "习俗"
+  url = "/customs/"
+  weight = 4
+
+[[menu.main]]
+  name = "旅游"
+  url = "/travel/"
+  weight = 5
+
+[[menu.main]]
+  name = "关于我们"
+  url = "/about/"
+  weight = 6

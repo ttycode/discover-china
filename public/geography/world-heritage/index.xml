@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>世界遗产 on Discover China</title>
+    <link>http://localhost:1313/geography/world-heritage/</link>
+    <description>Recent content in 世界遗产 on Discover China</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/geography/world-heritage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>兵马俑</title>
+      <link>http://localhost:1313/geography/world-heritage/terracotta-army/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/world-heritage/terracotta-army/</guid>
+      <description>&lt;h2 id=&#34;历史背景&#34;&gt;历史背景&lt;/h2&gt;&#xA;&lt;p&gt;秦始皇陵墓的陪葬坑，展现秦朝军队风貌。&lt;/p&gt;&#xA;&lt;h2 id=&#34;考古发现&#34;&gt;考古发现&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;发现过程&lt;/li&gt;&#xA;&lt;li&gt;出土文物&lt;/li&gt;&#xA;&lt;li&gt;修复工作&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;参观信息&#34;&gt;参观信息&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;展区分布&lt;/li&gt;&#xA;&lt;li&gt;最佳游览时间&lt;/li&gt;&#xA;&lt;li&gt;讲解服务&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>故宫</title>
+      <link>http://localhost:1313/geography/world-heritage/forbidden-city/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/world-heritage/forbidden-city/</guid>
+      <description>&lt;h2 id=&#34;历史背景&#34;&gt;历史背景&lt;/h2&gt;&#xA;&lt;p&gt;明清两代24位皇帝的皇宫。&lt;/p&gt;&#xA;&lt;h2 id=&#34;建筑特色&#34;&gt;建筑特色&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;三大殿&lt;/li&gt;&#xA;&lt;li&gt;后三宫&lt;/li&gt;&#xA;&lt;li&gt;六大宫院&lt;/li&gt;&#xA;&lt;li&gt;珍宝馆&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;文物收藏&#34;&gt;文物收藏&lt;/h2&gt;&#xA;&lt;p&gt;介绍故宫博物院的重要藏品。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>长城</title>
+      <link>http://localhost:1313/geography/world-heritage/great-wall/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/world-heritage/great-wall/</guid>
+      <description>&lt;h2 id=&#34;历史沿革&#34;&gt;历史沿革&lt;/h2&gt;&#xA;&lt;p&gt;长城始建于春秋战国时期，绵延万里。&lt;/p&gt;&#xA;&lt;h2 id=&#34;著名景区&#34;&gt;著名景区&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;八达岭长城&lt;/li&gt;&#xA;&lt;li&gt;慕田峪长城&lt;/li&gt;&#xA;&lt;li&gt;山海关长城&lt;/li&gt;&#xA;&lt;li&gt;金山岭长城&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;保护现状&#34;&gt;保护现状&lt;/h2&gt;&#xA;&lt;p&gt;介绍长城的保护措施和面临的挑战。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

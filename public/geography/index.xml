@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中国地理 on Discover China</title>
+    <link>http://localhost:1313/geography/</link>
+    <description>Recent content in 中国地理 on Discover China</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/geography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>上海地理</title>
+      <link>http://localhost:1313/geography/provinces/shanghai/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/provinces/shanghai/</guid>
+      <description>&lt;h2 id=&#34;地理位置&#34;&gt;地理位置&lt;/h2&gt;&#xA;&lt;p&gt;上海位于长江入海口，东临东海。&lt;/p&gt;&#xA;&lt;h2 id=&#34;地形特征&#34;&gt;地形特征&lt;/h2&gt;&#xA;&lt;p&gt;以平原为主，河网密布。&lt;/p&gt;&#xA;&lt;h2 id=&#34;著名地标&#34;&gt;著名地标&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;外滩&lt;/li&gt;&#xA;&lt;li&gt;东方明珠&lt;/li&gt;&#xA;&lt;li&gt;陆家嘴金融区&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>喜马拉雅山脉</title>
+      <link>http://localhost:1313/geography/landmarks/himalayas/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/landmarks/himalayas/</guid>
+      <description>&lt;h2 id=&#34;地理概况&#34;&gt;地理概况&lt;/h2&gt;&#xA;&lt;p&gt;喜马拉雅山脉横跨中国、尼泊尔、不丹等多个国家。&lt;/p&gt;&#xA;&lt;h2 id=&#34;主要山峰&#34;&gt;主要山峰&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;珠穆朗玛峰（8848.86米）&lt;/li&gt;&#xA;&lt;li&gt;乔戈里峰&lt;/li&gt;&#xA;&lt;li&gt;干城章嘉峰&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;自然资源&#34;&gt;自然资源&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;冰川&lt;/li&gt;&#xA;&lt;li&gt;高山植被&lt;/li&gt;&#xA;&lt;li&gt;珍稀动物&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>广东地理</title>
+      <link>http://localhost:1313/geography/provinces/guangdong/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/provinces/guangdong/</guid>
+      <description>&lt;h2 id=&#34;地理位置&#34;&gt;地理位置&lt;/h2&gt;&#xA;&lt;p&gt;位于中国南部，濒临南海。&lt;/p&gt;&#xA;&lt;h2 id=&#34;自然环境&#34;&gt;自然环境&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;珠江三角洲&lt;/li&gt;&#xA;&lt;li&gt;南岭山脉&lt;/li&gt;&#xA;&lt;li&gt;亚热带气候&lt;/li&gt;&#xA;&lt;li&gt;海岸线资源&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;经济特色&#34;&gt;经济特色&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;经济特区&lt;/li&gt;&#xA;&lt;li&gt;产业布局&lt;/li&gt;&#xA;&lt;li&gt;对外贸易&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>戈壁沙漠</title>
+      <link>http://localhost:1313/geography/landmarks/gobi-desert/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/landmarks/gobi-desert/</guid>
+      <description>&lt;h2 id=&#34;地理位置&#34;&gt;地理位置&lt;/h2&gt;&#xA;&lt;p&gt;横跨中国西北和蒙古国南部。&lt;/p&gt;&#xA;&lt;h2 id=&#34;自然特征&#34;&gt;自然特征&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;砾石戈壁&lt;/li&gt;&#xA;&lt;li&gt;沙质戈壁&lt;/li&gt;&#xA;&lt;li&gt;特殊地貌&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;生态系统&#34;&gt;生态系统&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;荒漠植被&lt;/li&gt;&#xA;&lt;li&gt;适应性动物&lt;/li&gt;&#xA;&lt;li&gt;气候特点&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>长江</title>
+      <link>http://localhost:1313/geography/landmarks/yangtze-river/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/landmarks/yangtze-river/</guid>
+      <description>&lt;h2 id=&#34;地理概况&#34;&gt;地理概况&lt;/h2&gt;&#xA;&lt;p&gt;长江发源于青藏高原，流经11个省市。&lt;/p&gt;&#xA;&lt;h2 id=&#34;主要支流&#34;&gt;主要支流&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;嘉陵江&lt;/li&gt;&#xA;&lt;li&gt;汉江&lt;/li&gt;&#xA;&lt;li&gt;湘江&lt;/li&gt;&#xA;&lt;li&gt;赣江&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;经济价值&#34;&gt;经济价值&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;水力发电&lt;/li&gt;&#xA;&lt;li&gt;航运交通&lt;/li&gt;&#xA;&lt;li&gt;农业灌溉&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>北京地理</title>
+      <link>http://localhost:1313/geography/provinces/beijing/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/provinces/beijing/</guid>
+      <description>&lt;h2 id=&#34;北京的地理位置&#34;&gt;北京的地理位置&lt;/h2&gt;&#xA;&lt;p&gt;北京位于华北平原，是中国的政治、文化中心。&lt;/p&gt;&#xA;&lt;h2 id=&#34;北京的著名地标&#34;&gt;北京的著名地标&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;故宫&lt;/li&gt;&#xA;&lt;li&gt;天安门&lt;/li&gt;&#xA;&lt;li&gt;长城&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
